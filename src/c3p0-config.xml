@@ -3,9 +3,9 @@
   <default-config>
   	<!--  连接参数 -->
     <property name="driverClass">com.mysql.jdbc.Driver</property>
-    <property name="jdbcUrl">jdbc:mysql://47.103.34.147:3306/linux_final?characterEncoding=utf-8</property>
+    <property name="jdbcUrl">jdbc:mysql://*************:3306/linux_final?characterEncoding=utf-8</property>
     <property name="user">root</property>
-    <property name="password">zzw171413</property>
+    <property name="password">************</property>
     
     <!-- 连接池参数 -->
     <!-- 初始化申请的连接数量 -->
