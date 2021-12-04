@@ -10,9 +10,9 @@ public class DBUtils {
         try {
             Class.forName("com.mysql.jdbc.Driver");
             //要素
-            String url = "jdbc:mysql://47.103.34.147:3306/linux_final?characterEncoding=utf-8";
+            String url = "jdbc:mysql://********:3306/linux_final?characterEncoding=utf-8";
             String username = "root";
-            String password = "zzw171413";
+            String password = "********";
             //连接
             connection = DriverManager.getConnection(url,username,password);
             //检查
