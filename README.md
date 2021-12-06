@@ -13,3 +13,5 @@ http://47.103.34.147:8080/deleteServlet（dopost）
 
 http://47.103.34.147:8080/updateServlet（dopost）
 更新
+
+脚本部署：shell_api_decide.sh
